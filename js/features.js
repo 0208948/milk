@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://cdn.jsdelivr.net/gh/0208948/crispy-couscous/silence_gen_1788453040840.mp3';
+    var SRC = 'https://cdn.imageurlgenerator.com/uploads/0ebd73cd-96be-4f34-a7cc-87ebefca5108.mp4';
     var _audio = null;
     var _unlockBound = false;
 
